@@ -4,5 +4,5 @@ public class Login {
     
     //Slack user can login successfully
     
-    //Brand new changes from github
+    //Brand new user changes from github
 }
